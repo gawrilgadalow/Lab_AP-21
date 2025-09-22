@@ -1,0 +1,571 @@
+﻿  main.cpp
+C:\Users\Gavryil\source\repos\OOPLab_AP-21\Lab2\Lab2\Resistor.h(15,9): error C2059: syntax error: ':'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Gavryil\source\repos\OOPLab_AP-21\Lab2\Lab2\Resistor.h(15,9): error C2334: unexpected token(s) preceding ':'; skipping apparent function body
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(557,1): error C2059: syntax error: 'namespace'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(557,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(572,17): error C2039: '_Common_float_type_t': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\string(23,1):
+      see declaration of 'std'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(572,37): error C2988: unrecognizable template declaration/definition
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(572,37): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(572,1): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(572,37): error C2059: syntax error: '<'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(572,49): error C2039: '_Common_float_type_t': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\string(23,1):
+      see declaration of 'std'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(573,72): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(585,6): error C2039: '_Common_float_type_t': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\string(23,1):
+      see declaration of 'std'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(585,26): error C2988: unrecognizable template declaration/definition
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(585,26): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(585,1): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(585,26): error C2059: syntax error: '<'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(585,111): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(836,1): error C2039: '_Common_float_type_t': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\string(23,1):
+      see declaration of 'std'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(836,1): error C2988: unrecognizable template declaration/definition
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(836,1): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(836,1): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(836,1): error C2059: syntax error: '<'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(836,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(863,1): error C2039: '_Common_float_type_t': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\string(23,1):
+      see declaration of 'std'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(863,1): error C2988: unrecognizable template declaration/definition
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(863,1): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(863,1): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(863,1): error C2059: syntax error: '<'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(863,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(865,1): error C2039: '_Common_float_type_t': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\string(23,1):
+      see declaration of 'std'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(865,1): error C2988: unrecognizable template declaration/definition
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(865,1): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(865,1): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(865,1): error C2059: syntax error: '<'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(865,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(881,1): error C2039: '_Common_float_type_t': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\string(23,1):
+      see declaration of 'std'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(881,1): error C2988: unrecognizable template declaration/definition
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(881,1): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(881,1): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(881,1): error C2059: syntax error: '<'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(881,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(882,1): error C2039: '_Common_float_type_t': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\string(23,1):
+      see declaration of 'std'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(882,1): error C2988: unrecognizable template declaration/definition
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(882,1): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(882,1): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(882,1): error C2059: syntax error: '<'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(882,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(884,1): error C2039: '_Common_float_type_t': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\string(23,1):
+      see declaration of 'std'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(884,1): error C2988: unrecognizable template declaration/definition
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(884,1): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(884,1): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(884,1): error C2059: syntax error: '<'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(884,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(886,1): error C2039: '_Common_float_type_t': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\string(23,1):
+      see declaration of 'std'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(886,1): error C2988: unrecognizable template declaration/definition
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(886,1): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(886,1): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(886,1): error C2059: syntax error: '<'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(886,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(888,1): error C2039: '_Common_float_type_t': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\string(23,1):
+      see declaration of 'std'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(888,1): error C2988: unrecognizable template declaration/definition
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(888,1): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(888,1): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(888,1): error C2059: syntax error: '<'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(888,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(889,1): error C2039: '_Common_float_type_t': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\string(23,1):
+      see declaration of 'std'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(889,1): error C2988: unrecognizable template declaration/definition
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(889,1): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(889,1): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(889,1): error C2059: syntax error: '<'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(889,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(890,1): error C2039: '_Common_float_type_t': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\string(23,1):
+      see declaration of 'std'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(890,1): error C2988: unrecognizable template declaration/definition
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(890,1): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(890,1): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(890,1): error C2059: syntax error: '<'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(890,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(894,1): error C2988: unrecognizable template declaration/definition
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(894,1): error C2059: syntax error: 'return'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(894,1): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(894,1): error C2628: 'Resіstor' followed by 'bool' is illegal (did you forget a ';'?)
+  (compiling source file 'main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(894,1): error C2440: 'return': cannot convert from 'bool' to 'Resіstor'
+  (compiling source file 'main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(894,1):
+      No constructor could take the source type, or constructor overload resolution was ambiguous
+  
+C:\Users\Gavryil\source\repos\OOPLab_AP-21\Lab2\Lab2\main.cpp(11,5): error C2065: 'Resistor': undeclared identifier
+C:\Users\Gavryil\source\repos\OOPLab_AP-21\Lab2\Lab2\main.cpp(11,14): error C2146: syntax error: missing ';' before identifier 'resistor_manager'
+C:\Users\Gavryil\source\repos\OOPLab_AP-21\Lab2\Lab2\main.cpp(11,14): error C2065: 'resistor_manager': undeclared identifier
+C:\Users\Gavryil\source\repos\OOPLab_AP-21\Lab2\Lab2\main.cpp(30,13): error C2065: 'resistor_manager': undeclared identifier
+C:\Users\Gavryil\source\repos\OOPLab_AP-21\Lab2\Lab2\main.cpp(45,13): error C2065: 'resistor_manager': undeclared identifier
+C:\Users\Gavryil\source\repos\OOPLab_AP-21\Lab2\Lab2\main.cpp(52,13): error C2065: 'resistor_manager': undeclared identifier
+C:\Users\Gavryil\source\repos\OOPLab_AP-21\Lab2\Lab2\main.cpp(61,13): error C2065: 'resistor_manager': undeclared identifier
+C:\Users\Gavryil\source\repos\OOPLab_AP-21\Lab2\Lab2\main.cpp(61,13): error C1003: error count exceeds 100; stopping compilation
+  Resistor.cpp
+C:\Users\Gavryil\source\repos\OOPLab_AP-21\Lab2\Lab2\Resistor.h(15,9): error C2059: syntax error: ':'
+  (compiling source file 'Resistor.cpp')
+  
+C:\Users\Gavryil\source\repos\OOPLab_AP-21\Lab2\Lab2\Resistor.h(15,9): error C2334: unexpected token(s) preceding ':'; skipping apparent function body
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(557,1): error C2059: syntax error: 'namespace'
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(557,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(572,17): error C2039: '_Common_float_type_t': is not a member of 'std'
+  (compiling source file 'Resistor.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\string(23,1):
+      see declaration of 'std'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(572,37): error C2988: unrecognizable template declaration/definition
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(572,37): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(572,1): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(572,37): error C2059: syntax error: '<'
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(572,49): error C2039: '_Common_float_type_t': is not a member of 'std'
+  (compiling source file 'Resistor.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\string(23,1):
+      see declaration of 'std'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(573,72): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(585,6): error C2039: '_Common_float_type_t': is not a member of 'std'
+  (compiling source file 'Resistor.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\string(23,1):
+      see declaration of 'std'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(585,26): error C2988: unrecognizable template declaration/definition
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(585,26): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(585,1): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(585,26): error C2059: syntax error: '<'
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(585,111): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(836,1): error C2039: '_Common_float_type_t': is not a member of 'std'
+  (compiling source file 'Resistor.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\string(23,1):
+      see declaration of 'std'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(836,1): error C2988: unrecognizable template declaration/definition
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(836,1): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(836,1): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(836,1): error C2059: syntax error: '<'
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(836,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(863,1): error C2039: '_Common_float_type_t': is not a member of 'std'
+  (compiling source file 'Resistor.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\string(23,1):
+      see declaration of 'std'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(863,1): error C2988: unrecognizable template declaration/definition
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(863,1): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(863,1): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(863,1): error C2059: syntax error: '<'
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(863,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(865,1): error C2039: '_Common_float_type_t': is not a member of 'std'
+  (compiling source file 'Resistor.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\string(23,1):
+      see declaration of 'std'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(865,1): error C2988: unrecognizable template declaration/definition
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(865,1): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(865,1): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(865,1): error C2059: syntax error: '<'
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(865,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(881,1): error C2039: '_Common_float_type_t': is not a member of 'std'
+  (compiling source file 'Resistor.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\string(23,1):
+      see declaration of 'std'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(881,1): error C2988: unrecognizable template declaration/definition
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(881,1): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(881,1): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(881,1): error C2059: syntax error: '<'
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(881,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(882,1): error C2039: '_Common_float_type_t': is not a member of 'std'
+  (compiling source file 'Resistor.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\string(23,1):
+      see declaration of 'std'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(882,1): error C2988: unrecognizable template declaration/definition
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(882,1): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(882,1): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(882,1): error C2059: syntax error: '<'
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(882,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(884,1): error C2039: '_Common_float_type_t': is not a member of 'std'
+  (compiling source file 'Resistor.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\string(23,1):
+      see declaration of 'std'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(884,1): error C2988: unrecognizable template declaration/definition
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(884,1): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(884,1): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(884,1): error C2059: syntax error: '<'
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(884,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(886,1): error C2039: '_Common_float_type_t': is not a member of 'std'
+  (compiling source file 'Resistor.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\string(23,1):
+      see declaration of 'std'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(886,1): error C2988: unrecognizable template declaration/definition
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(886,1): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(886,1): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(886,1): error C2059: syntax error: '<'
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(886,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(888,1): error C2039: '_Common_float_type_t': is not a member of 'std'
+  (compiling source file 'Resistor.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\string(23,1):
+      see declaration of 'std'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(888,1): error C2988: unrecognizable template declaration/definition
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(888,1): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(888,1): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(888,1): error C2059: syntax error: '<'
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(888,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(889,1): error C2039: '_Common_float_type_t': is not a member of 'std'
+  (compiling source file 'Resistor.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\string(23,1):
+      see declaration of 'std'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(889,1): error C2988: unrecognizable template declaration/definition
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(889,1): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(889,1): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(889,1): error C2059: syntax error: '<'
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(889,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(890,1): error C2039: '_Common_float_type_t': is not a member of 'std'
+  (compiling source file 'Resistor.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\string(23,1):
+      see declaration of 'std'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(890,1): error C2988: unrecognizable template declaration/definition
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(890,1): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(890,1): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(890,1): error C2059: syntax error: '<'
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(890,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(894,1): error C2988: unrecognizable template declaration/definition
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(894,1): error C2059: syntax error: 'return'
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(894,1): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(894,1): error C2628: 'Resіstor' followed by 'bool' is illegal (did you forget a ';'?)
+  (compiling source file 'Resistor.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(894,1): error C2440: 'return': cannot convert from 'bool' to 'Resіstor'
+  (compiling source file 'Resistor.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(894,1):
+      No constructor could take the source type, or constructor overload resolution was ambiguous
+  
+C:\Users\Gavryil\source\repos\OOPLab_AP-21\Lab2\Lab2\Resistor.cpp(8,1): error C2653: 'Resistor': is not a class or namespace name
+C:\Users\Gavryil\source\repos\OOPLab_AP-21\Lab2\Lab2\Resistor.cpp(8,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Gavryil\source\repos\OOPLab_AP-21\Lab2\Lab2\Resistor.cpp(10,1): warning C4508: 'Resistor': function should return a value; 'void' return type assumed
+C:\Users\Gavryil\source\repos\OOPLab_AP-21\Lab2\Lab2\Resistor.cpp(15,1): error C2653: 'Resistor': is not a class or namespace name
+C:\Users\Gavryil\source\repos\OOPLab_AP-21\Lab2\Lab2\Resistor.cpp(15,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Gavryil\source\repos\OOPLab_AP-21\Lab2\Lab2\Resistor.cpp(17,1): warning C4508: '{dtor}': function should return a value; 'void' return type assumed
+C:\Users\Gavryil\source\repos\OOPLab_AP-21\Lab2\Lab2\Resistor.cpp(20,6): error C2653: 'Resistor': is not a class or namespace name
+C:\Users\Gavryil\source\repos\OOPLab_AP-21\Lab2\Lab2\Resistor.cpp(20,16): error C2270: 'valіdateResіstorData': modifiers not allowed on nonmember functions
+C:\Users\Gavryil\source\repos\OOPLab_AP-21\Lab2\Lab2\Resistor.cpp(23,9): error C2059: syntax error: '|'
+C:\Users\Gavryil\source\repos\OOPLab_AP-21\Lab2\Lab2\Resistor.cpp(23,24): error C2143: syntax error: missing ';' before '{'
+C:\Users\Gavryil\source\repos\OOPLab_AP-21\Lab2\Lab2\Resistor.cpp(31,6): error C2653: 'Resistor': is not a class or namespace name
+C:\Users\Gavryil\source\repos\OOPLab_AP-21\Lab2\Lab2\Resistor.cpp(31,6): error C1003: error count exceeds 100; stopping compilation
+  Generating Code...
